@@ -1,0 +1,251 @@
+Country or entity,ISO country code,IP addresses
+ Afghanistan,AF,103744
+ Åland Islands,AX,28928
+ Albania,AL,323840
+ Algeria,DZ,2616832
+ American Samoa,AS,4096
+ Andorra,AD,32768
+ Angola,AO,311808
+ Anguilla,AI,4096
+ Antarctica,AQ,0
+ Antigua and Barbuda,AG,57344
+ Argentina,AR,14547968
+ Armenia,AM,525088
+ Aruba,AW,73984
+ Australia,AU,47573248
+ Austria,AT,11312096
+ Azerbaijan,AZ,517120
+ Bahamas,BS,121856
+ Bahrain,BH,465920
+ Bangladesh,BD,924160
+ Barbados,BB,140032
+ Belarus,BY,1776640
+ Belgium,BE,11148992
+ Belize,BZ,61952
+ Benin,BJ,39936
+ Bermuda,BM,91648
+ Bhutan,BT,23552
+ Bolivia,BO,561920
+" Bonaire, Saint Eustatius and Saba",BQ,0
+ Bosnia and Herzegovina,BA,728832
+ Botswana,BW,100096
+ Bouvet Island,BV,0
+ Brazil,BR,48572160
+ British Indian Ocean Territory,IO,3072
+ British Virgin Islands,VG,14336
+ Brunei,BN,192512
+ Bulgaria,BG,4374032
+ Burkina Faso,BF,32512
+ Burundi,BI,5376
+ Cambodia,KH,225536
+ Cameroon,CM,137728
+ Canada,CA,79989760
+ Cape Verde,CV,17408
+ Cayman Islands,KY,35840
+ Central African Republic,CF,4352
+ Chad,TD,4096
+ Chile,CL,7390464
+ Christmas Island,CX,0
+ Cocos (Keeling) Islands,CC,0
+ Colombia,CO,8834816
+ Comoros,KM,4096
+ Cook Islands,CK,8192
+ Costa Rica,CR,1944832
+ Côte d'Ivoire,CI,133632
+ Croatia,HR,2042432
+ Cuba,CU,113664
+ Curaçao,CW,161024
+ Cyprus,CY,1136896
+ Czech Republic,CZ,8044160
+ Democratic Republic of the Congo,CD,21248
+ Denmark,DK,12280304
+ Djibouti,DJ,12288
+ Dominica,DM,1024
+ Dominican Republic,DO,857600
+ Ecuador,EC,1857280
+ Egypt,EG,8454144
+ El Salvador,SV,575744
+ Equatorial Guinea,GQ,3072
+ Eritrea,ER,4096
+ Estonia,EE,1205560
+ Eswatini,,34560
+ Ethiopia,ET,32768
+ Falkland Islands,FK,0
+ Faroe Islands,FO,39936
+ Federated States of Micronesia,FM,6144
+ Fiji,FJ,134656
+ Finland,FI,13553856
+ France,FR,95078032
+ French Guiana,GF,2048
+ French Polynesia,PF,41472
+ French Southern and Antarctic Lands,TF,0
+ Gabon,GA,169472
+ Gambia,GM,21504
+ Georgia,GE,1014784
+ Germany,DE,118132104
+ Ghana,GH,332544
+ Gibraltar,GI,62976
+ Greece,GR,5549568
+ Greenland,GL,16384
+ Grenada,GD,8448
+ Guadeloupe,GP,4096
+ Guam,GU,213504
+ Guatemala,GT,552192
+ Guernsey,GG,2048
+ Guinea,GN,4096
+ Guinea-Bissau,GW,5120
+ Guyana,GY,38912
+ Haiti,HT,124160
+ Heard Island and McDonald Islands,HM,0
+ Honduras,HN,143616
+ Hong Kong,HK,11777024
+ Hungary,HU,5485568
+ Iceland,IS,814592
+ India,IN,34685952
+ Indonesia,ID,17360640
+ Iran,IR,5260800
+ Iraq,IQ,243712
+ Ireland,IE,5963280
+ Isle of Man,IM,4608
+ Israel,IL,7573824
+ Italy,IT,50999712
+ Jamaica,JM,202752
+ Japan,JP,202183168
+ Jersey,JE,6144
+ Jordan,JO,663936
+ Kazakhstan,KZ,2514944
+ Kenya,KE,1655040
+ Kiribati,KI,3072
+ Kosovo,XK,205056
+ Kuwait,KW,1885184
+ Kyrgyzstan,KG,231168
+ Laos,LA,54784
+ Latvia,LV,1659328
+ Lebanon,LB,457728
+ Lesotho,LS,40448
+ Liberia,LR,13312
+ Libya,LY,299008
+ Liechtenstein,LI,69408
+ Lithuania,LT,2240256
+ Luxembourg,LU,1299456
+ Macau,MO,324864
+ Madagascar,MG,62208
+ Malawi,MW,79616
+ Malaysia,MY,6322432
+ Maldives,MV,53760
+ Mali,ML,36864
+ Malta,MT,556544
+ Marshall Islands,MH,2048
+ Martinique,MQ,0
+ Mauritania,MR,32768
+ Mauritius,MU,496640
+ Mayotte,YT,0
+ Mexico,MX,25862912
+ Moldova,MD,733440
+ Monaco,MC,57856
+ Mongolia,MN,201984
+ Montenegro,ME,171520
+ Montserrat,MS,1280
+ Morocco,MA,3457792
+ Mozambique,MZ,343296
+ Myanmar,MM,25600
+ Namibia,NA,199168
+ Nauru,NR,8192
+ Nepal,NP,475904
+ Netherlands,NL,46379784
+ Netherlands Antilles[lower-alpha 1],,308992
+ New Caledonia,NC,150528
+ New Zealand,NZ,6954496
+ Nicaragua,NI,369408
+ Niger,NE,20480
+ Nigeria,NG,1005312
+ Niue,NU,2048
+ Norfolk Island,NF,1536
+ North Korea,KP,1024
+ North Macedonia,MK,657664
+ Northern Mariana Islands,MP,13312
+ Norway,NO,15259312
+ Oman,OM,619520
+ Pakistan,PK,5179904
+ Palau,PW,4096
+ Palestine,PS,510720
+ Panama,PA,1573376
+ Papua New Guinea,PG,49920
+ Paraguay,PY,365312
+ People's Republic of China,CN,330321408
+ Peru,PE,2437120
+ Philippines,PH,5404672
+ Pitcairn Islands,PN,0
+ Poland,PL,19433192
+ Portugal,PT,5833504
+ Puerto Rico,PR,1000704
+ Qatar,QA,808960
+ Republic of China (Taiwan),TW,35383040
+ Republic of the Congo,CG,12288
+ Réunion,RE,32768
+ Romania,RO,12718592
+ Russia,RU,42762784
+ Rwanda,RW,195840
+ Saint Barthélemy,BL,0
+" Saint Helena, Ascension and Tristan da Cunha",SH,0
+ Saint Kitts and Nevis,KN,62464
+ Saint Lucia,LC,256
+ Saint Martin,MF,7168
+ Saint Pierre and Miquelon,PM,4096
+ Saint Vincent and the Grenadines,VC,17408
+ Samoa,WS,16640
+ San Marino,SM,26880
+ São Tomé and Príncipe,ST,8448
+ Saudi Arabia,SA,5504256
+ Senegal,SN,293248
+ Serbia,RS,2022144
+ Seychelles,SC,36352
+ Sierra Leone,SL,17920
+ Singapore,SG,5719552
+ Sint Maarten,SX,39936
+ Slovakia,SK,2555392
+ Slovenia,SI,2525056
+ Solomon Islands,SB,9728
+ Somalia,SO,10240
+ South Africa,ZA,20386560
+ South Georgia and the South Sandwich Islands,GS,0
+ South Korea,KR,112239104
+ Spain,ES,28421760
+ Sri Lanka,LK,534272
+ Sudan &  South Sudan,SD,283904
+ Suriname,SR,44032
+ Svalbard &  Jan Mayen[lower-alpha 2],SJ,0
+ Sweden,SE,30373544
+ Switzerland,CH,20872696
+ Syria,SY,824320
+ Tajikistan,TJ,67328
+ Tanzania,TZ,339712
+ Thailand,TH,8547840
+ Timor-Leste,TL,4096
+ Togo,TG,13312
+ Tokelau,TK,2048
+ Tonga,TO,6144
+ Trinidad and Tobago,TT,470016
+ Tunisia,TN,2729216
+ Turkey,TR,15393728
+ Turkmenistan,TM,8704
+ Turks and Caicos Islands,TC,8192
+ Tuvalu,TV,8192
+ Uganda,UG,208640
+ Ukraine,UA,11242816
+ United Arab Emirates,AE,2838400
+ United Kingdom,GB,123500144
+ United States,US,1541605760
+ United States Minor Outlying Islands,UM,0
+ United States Virgin Islands,VI,87040
+ Uruguay,UY,1180416
+ Uzbekistan,UZ,231424
+ Vanuatu,VU,10752
+ Vatican City,VA,17920
+ Venezuela,VE,5045248
+ Vietnam,VN,15530496
+ Wallis and Futuna,WF,3072
+ Western Sahara,EH,0
+ Yemen,YF,51200
+ Zambia,ZM,162816
+ Zimbabwe,ZW,86016

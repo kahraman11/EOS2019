@@ -1,0 +1,216 @@
+ISO_code,country,score
+QA,Qatar,99.65284913
+KW,Kuwait,99.59999254
+IS,Iceland,99.01095399
+BH,Bahrain,98.64342901
+AE,United Arab Emirates,98.45000178
+BM,Bermuda,98.37
+LI,Liechtenstein,98.1
+AD,Andorra,97.93063712
+DK,Denmark,97.64426813
+FO,Faroe Islands,97.58195894
+AW,Aruba,97.17
+LU,Luxembourg,97.06129871
+MC,Monaco,97.05297684
+NO,Norway,96.49165799
+KR,"Korea, Rep.",95.8982922
+GB,United Kingdom,94.89674176
+NL,Netherlands,94.71207372
+BN,Brunei Darussalam,94.60004747
+GI,Gibraltar,94.44447158
+SA,Saudi Arabia,93.31000185
+SE,Sweden,92.14167705
+CA,Canada,91
+NZ,New Zealand,90.81109307
+DE,Germany,89.73912104
+CH,Switzerland,89.68614767
+XK,Kosovo,89.44303197
+HK,"Hong Kong SAR, China",89.41594465
+EE,Estonia,89.35700777
+FI,Finland,88.88996
+BE,Belgium,88.65506428
+SG,Singapore,88.16563603
+AT,Austria,87.71046495
+US,United States,87.26611282
+AU,Australia,86.54504885
+ES,Spain,86.10723553
+BS,"Bahamas, The",85
+JP,Japan,84.58806583
+IE,Ireland,84.52230206
+CY,Cyprus,84.43358252
+MO,"Macao SAR, China",83.79408961
+LV,Latvia,83.57717486
+CL,Chile,82.32748693
+FR,France,82.04353422
+NC,New Caledonia,82.0058408
+BB,Barbados,81.76077839
+IL,Israel,81.58118359
+MT,Malta,81.40313252
+MY,Malaysia,81.20170665
+KY,Cayman Islands,81.06769325
+RU,Russian Federation,80.86472186
+KN,St. Kitts and Nevis,80.71019081
+CZ,Czech Republic,80.68816754
+SK,Slovak Republic,80.66033556
+GU,Guam,80.50546556
+OM,Oman,80.18563573
+AZ,Azerbaijan,79.79999549
+SI,Slovenia,79.7499766
+LT,Lithuania,79.72258277
+MK,North Macedonia,79.16775519
+BY,Belarus,79.12988669
+KZ,Kazakhstan,78.90391906
+LB,Lebanon,78.18077489
+VG,British Virgin Islands,77.70426829
+PL,Poland,77.54173454
+TT,Trinidad and Tobago,77.32605293
+MD,Moldova,76.12451989
+HU,Hungary,76.07436064
+AG,Antigua and Barbuda,76
+DO,Dominican Republic,74.82428986
+PT,Portugal,74.66096828
+IT,Italy,74.38718292
+AR,Argentina,74.29490687
+CR,Costa Rica,74.08680223
+RS,Serbia,73.36070915
+GR,Greece,72.9520942
+PF,French Polynesia,72.70389531
+HR,Croatia,72.68877088
+VE,"Venezuela, RB",72
+AL,Albania,71.8470405
+ME,Montenegro,71.517253
+TR,Turkey,71.04276107
+RO,Romania,70.68127793
+PR,Puerto Rico,70.59787359
+VN,Vietnam,70.34963558
+BA,Bosnia and Herzegovina,70.12013504
+IR,"Iran, Islamic Rep.",70.00455222
+DM,Dominica,69.61966879
+GL,Greenland,69.48246178
+UY,Uruguay,68.27966256
+CW,Curacao,68.12721625
+BR,Brazil,67.47128452
+JO,Jordan,66.79031443
+MX,Mexico,65.77263448
+GT,Guatemala,65
+PY,Paraguay,64.99354302
+MA,Morocco,64.80386519
+BG,Bulgaria,64.78201069
+AM,Armenia,64.74488433
+VI,Virgin Islands (U.S.),64.3774943
+TN,Tunisia,64.19081023
+GE,Georgia,63.96862952
+MV,Maldives,63.18566588
+CO,Colombia,62.25988032
+GA,Gabon,62
+SM,San Marino,60.18230126
+PH,Philippines,60.05476033
+DZ,Algeria,59.57968476
+GD,Grenada,59.07173536
+UA,Ukraine,58.88947945
+SC,Seychelles,58.76981124
+MU,Mauritius,58.5961697
+CV,Cabo Verde,58.17137201
+PA,Panama,57.86509007
+EC,Ecuador,57.27224368
+CU,Cuba,57.14840432
+NR,Nauru,57
+TH,Thailand,56.81748093
+ZA,South Africa,56.16739447
+DJ,Djibouti,55.68140925
+JM,Jamaica,55.07206705
+CN,China,54.3
+PE,Peru,52.54031157
+UZ,Uzbekistan,52.30510079
+NA,Namibia,51
+LC,St. Lucia,50.81524478
+FJ,Fiji,49.96637301
+IQ,Iraq,49.35999889
+TV,Tuvalu,49.31833862
+SR,Suriname,48.94517397
+BT,Bhutan,48.10641588
+BZ,Belize,47.0826258
+BW,Botswana,47
+SZ,Eswatini,47
+EG,"Egypt, Arab Rep.",46.92433809
+CI,Cote d'Ivoire,46.82372708
+SN,Senegal,46
+BO,Bolivia,43.83227607
+NG,Nigeria,42
+TO,Tonga,41.24872764
+KH,Cambodia,40
+ID,Indonesia,39.78748305
+GH,Ghana,39
+MH,Marshall Islands,38.70116262
+KG,Kyrgyz Republic,38
+GY,Guyana,37.32583679
+FM,"Micronesia, Fed. Sts.",35.30405287
+IN,India,34.45
+SY,Syrian Arab Republic,34.25340193
+LK,Sri Lanka,34.1133479
+NP,Nepal,34
+SV,El Salvador,33.8207289
+WS,Samoa,33.61093932
+HT,Haiti,32.47362713
+HN,Honduras,31.7
+SD,Sudan,30.87029573
+MM,Myanmar,30.67818311
+ST,Sao Tome and Principe,29.9312292
+LS,Lesotho,29
+NI,Nicaragua,27.86304001
+TL,Timor-Leste,27.49273173
+ZW,Zimbabwe,27.05548769
+PW,Palau,26.97033263
+YF,"Yemen, Rep.",26.71835477
+GQ,Equatorial Guinea,26.23999996
+VU,Vanuatu,25.71978784
+LA,Lao PDR,25.51043508
+TZ,Tanzania,25
+MN,Mongolia,23.71426517
+UG,Uganda,23.70653091
+CM,Cameroon,23.20297197
+VC,St. Vincent and the Grenadines,22.39426119
+TJ,Tajikistan,21.96
+TW,Rwanda,21.76763262
+LY,Libya,21.75892062
+AO,Angola,21.4
+TM,Turkmenistan,21.25099741
+MR,Mauritania,20.80096366
+BJ,Benin,20
+GM,"Gambia, The",19.83645444
+ET,Ethiopia,18.61805145
+GN,Guinea,18
+KE,Kenya,17.82710021
+BF,Burkina Faso,16
+PK,Pakistan,15.51
+BD,Bangladesh,15
+KI,Kiribati,14.58181818
+ZM,Zambia,14.2999971
+MW,Malawi,13.78216439
+AF,Afghanistan,13.5
+ML,Mali,13
+TG,Togo,12.36022497
+SB,Solomon Islands,11.92422906
+PG,Papua New Guinea,11.20919659
+MZ,Mozambique,10
+MG,Madagascar,9.8
+SL,Sierra Leone,9
+CG,"Congo, Rep.",8.65
+CD,"Congo, Dem. Rep.",8.619904916
+KM,Comoros,8.478170295
+LR,Liberia,7.984479722
+SS,South Sudan,7.977428907
+TD,Chad,6.49999812
+NE,Niger,5.250487687
+CF,Central African Republic,4.339254945
+GW,Guinea-Bissau,3.930509152
+BI,Burundi,2.660748535
+SO,Somalia,2.004048698
+ER,Eritrea,1.30890698
+AS,American Samoa,0
+IM,Isle of Man,0
+KP,"Korea, Dem. People’s Rep.",0
+MP,Northern Mariana Islands,0
+SX,Sint Maarten (Dutch part),0
+MF,St. Martin (French part),0
+TC,Turks and Caicos Islands,0

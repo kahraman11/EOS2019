@@ -1,0 +1,195 @@
+ISO_code,country,score
+GB,United Kingdom,0.931
+US,United States of America,0.926
+FR,France,0.918
+LT,Lithuania,0.908
+EE,Estonia,0.905
+SG,Singapore,0.898
+ES,Spain,0.896
+MY,Malaysia,0.893
+CA,Canada,0.892
+NO,Norway,0.892
+AU,Australia,0.89
+LU,Luxembourg,0.886
+NL,Netherlands,0.885
+SA,Saudi Arabia,0.881
+JP,Japan,0.88
+MU,Mauritius,0.88
+KR,Republic of Korea,0.873
+OM,Oman,0.868
+QA,Qatar,0.86
+GE,Georgia,0.857
+FI,Finland,0.856
+TR,Turkey,0.853
+DK,Denmark,0.852
+DE,Germany,0.849
+EG,Egypt,0.842
+HR,Croatia,0.84
+IT,Italy,0.837
+RU,Russian Federation,0.836
+CN,China,0.828
+AT,Austria,0.826
+PL,Poland,0.815
+BE,Belgium,0.814
+HU,Hungary,0.812
+SE,Sweden,0.81
+AE,United Arab Emirates,0.807
+MK,The Republic of North Macedonia,0.8
+TH,Thailand,0.796
+NZ,New Zealand,0.789
+CH,Switzerland,0.788
+IE,Ireland,0.784
+IL,Israel,0.783
+KZ,Kazakhstan,0.778
+ID,Indonesia,0.776
+PT,Portugal,0.758
+MC,Monaco,0.751
+KE,Kenya,0.748
+LV,Latvia,0.748
+SK,Slovakia,0.729
+BG,Bulgaria,0.721
+IN,India,0.719
+SI,Slovenia,0.701
+RW,Rwanda,0.697
+VN,Viet Nam,0.693
+UY,Uruguay,0.681
+UZ,Uzbekistan,0.666
+MD,Moldova,0.662
+UA,Ukraine,0.661
+AZ,Azerbaijan,0.653
+CY,Cyprus,0.652
+ZA,South Africa,0.652
+NG,Nigeria,0.65
+PH,Philipines,0.643
+RS,Serbia,0.643
+TZ,Tanzania,0.642
+IR,Iran,0.641
+ME,Montenegro,0.639
+AL,Albania,0.631
+MX,Mexico,0.629
+BN,Brunei Darussalam,0.624
+UG,Uganda,0.621
+PY,Paraguay,0.603
+KW,Kuwait,0.6
+BH,Bahrain,0.585
+BY,Belarus,0.578
+BR,Brazil,0.577
+CZ,Czech Republic,0.569
+RO,Romania,0.568
+CO,Colombia,0.565
+JO,Jordan,0.543
+LI,Liechtenstein,0.536
+GR,Greece,0.527
+TN,Tunisia,0.527
+BD,Bangladesh,0.525
+AM,Armenia,0.495
+BJ,Benin,0.485
+CU,Cuba,0.481
+MT,Malta,0.479
+CL,Chile,0.47
+LK,Sri Landa,0.466
+MN,Mongolia,0.465
+CI,Cote d'Ivoire,0.456
+IS,Iceland,0.449
+BW,Botswana,0.44
+GH,Ghana,0.437
+ZM,Zambia,0.436
+CM,Cameroon,0.432
+DO,Dominican Republic,0.43
+MA,Morocco,0.429
+AR,Argentina,0.407
+JM,Jamaica,0.407
+PK,Pakistan,0.407
+PE,Peru,0.401
+BF,Burkina Faso,0.4
+PA,Panama,0.369
+EC,Ecuador,0.367
+WS,Samoa,0.367
+VE,Venezuela,0.354
+GA,Gabon,0.318
+PS,State of Palestine,0.307
+SN,Senegal,0.305
+SD,Sudan,0.294
+GM,Gambia,0.28
+ET,Ethiopia,0.278
+MW,Malawi,0.275
+IQ,Iraq,0.263
+TJ,Tajikistan,0.263
+DZ,Algeria,0.262
+NP,Nepal,0.26
+SC,Seychelles,0.259
+KG,Kyrgyzstan,0.254
+GT,Guatemala,0.251
+AG,Antigua and Barbuda,0.247
+SY,Syrian Arab Republic,0.237
+CR,Costa Rica,0.221
+TO,Tonga,0.208
+LR,Liberia,0.206
+LY,Libya,0.206
+BA,Bosnia and herzegovina,0.204
+MG,Madagaskar,0.196
+LA,Lao People's Democratic Republic,0.195
+FJ,Fiji,0.194
+GN,Guinea,0.191
+TT,Trinibad and Tobago,0.188
+LB,Lebanon,0.186
+ZW,Zimbabwe,0.186
+BT,Bhutan,0.181
+AF,Afghanistan,0.177
+BB,Barbados,0.173
+MM,Myanmar,0.172
+VC,Saint Vincent and the Grenadines,0.169
+CG,Congo,0.167
+KH,Cambodia,0.161
+MZ,Mozambique,0.158
+BS,Bahamas,0.147
+GD,Grenada,0.143
+BO,Bolivia (Plurinational State of),0.139
+SL,Sierra Leone,0.138
+SZ,Eswatini,0.133
+GY,Guyana,0.132
+PG,Papua New Guinea,0.131
+BZ,Belize,0.129
+NI,Nicaragua,0.129
+NA,Namibia,0.127
+SV,El Salvador,0.124
+AD,Andorra,0.115
+TM,Turkmenistan,0.115
+SR,Suriname,0.11
+MR,Mauritania,0.107
+NR,Nauru,0.101
+TD,Chad,0.098
+VU,Vanuatu,0.098
+AO,Angola,0.097
+LC,Saint Lucia,0.096
+NE,Niger,0.094
+BI,Burundi,0.087
+TG,Togo,0.087
+ML,Mali,0.085
+TL,Timor-Leste,0.082
+SM,San Marino,0.075
+MH,Marshall Islands,0.072
+SO,Somalia,0.07
+KN,Saint Kitts and Nevis,0.065
+SS,South Sudan,0.065
+ST,Sao Tome and Principe,0.064
+DJ,Djibouti,0.063
+SB,Solomon Islands,0.061
+TV,Tuvalu,0.057
+GW,Guinea-Bissau,0.055
+CV,Cabo Verde,0.051
+LS,Lesotho,0.051
+HT,Haiti,0.046
+HN,Honduras,0.044
+FM,Micronesia (Federated States of),0.04
+CF,Central African Republic,0.036
+GQ,Equatorial Guinea,0.031
+KI,Kiribati,0.028
+VA,Vatican,0.021
+KP,Democratic People's Republic of Korea,0.02
+ER,Eritrea,0.02
+DM,Dominica,0.019
+YF,Yemen,0.019
+KM,Comoros,0.015
+CD,Democratic People's Republic of the Congo,0.008
+MV,Maldives,0.004
